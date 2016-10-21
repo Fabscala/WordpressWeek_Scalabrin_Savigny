@@ -46,42 +46,90 @@
                 <h2 class="page-header">Nos Produits</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+            <div class="hovereffect">
+              <img class="img-circle img-responsive img-center" src="http://placehold.it/350x250" alt="">
+                <div class="overlay">
+                  <h2>Effect 14</h2>
+                    <p>
+                      <a href="#">LINK HERE</a>
+                    </p> 
+                </div>
+              </div>
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+            <div class="hovereffect">
+              <img class="img-circle img-responsive img-center" src="http://placehold.it/350x250" alt="">
+                <div class="overlay">
+                  <h2>Effect 14</h2>
+                    <p>
+                      <a href="#">LINK HERE</a>
+                    </p> 
+                </div>
+              </div>
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+            <div class="hovereffect">
+              <img class="img-circle img-responsive img-center" src="http://placehold.it/350x250" alt="">
+                <div class="overlay">
+                  <h2>Effect 14</h2>
+                    <p>
+                      <a href="#">LINK HERE</a>
+                    </p> 
+                </div>
+              </div>
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+            <div class="hovereffect">
+              <img class="img-circle img-responsive img-center" src="http://placehold.it/350x250" alt="">
+                <div class="overlay">
+                  <h2>Effect 14</h2>
+                    <p>
+                      <a href="#">LINK HERE</a>
+                    </p> 
+                </div>
+              </div>
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+            <div class="hovereffect">
+              <img class="img-circle img-responsive img-center" src="http://placehold.it/350x250" alt="">
+                <div class="overlay">
+                  <h2>Effect 14</h2>
+                    <p>
+                      <a href="#">LINK HERE</a>
+                    </p> 
+                </div>
+              </div>
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
                 <p>What does this team member to? Keep it short! This is also a great spot for social links!</p>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
-                <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">
+            <div class="hovereffect">
+              <img class="img-circle img-responsive img-center" src="http://placehold.it/350x250" alt="">
+                <div class="overlay">
+                  <h2>Effect 14</h2>
+                    <p>
+                      <a href="#">LINK HERE</a>
+                    </p> 
+                </div>
+              </div>
                 <h3>John Smith
                     <small>Job Title</small>
                 </h3>
