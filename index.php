@@ -25,7 +25,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a id="navtop" href="#">Accueil</a></li>
-        <li><a id="navtop" href="#">Produits</a></li>
+        <li><a id="navtop" href="produits.php">Produits</a></li>
         <li><a id="navtop" href="#">Qui sommes-nous</a></li>
         <li><a id="navtop" href="#">Contact</a></li>
       </ul>
