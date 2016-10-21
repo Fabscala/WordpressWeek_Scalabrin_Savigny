@@ -34,7 +34,7 @@
 </nav>
 </header>
 <body>   
-<section>
+<section id="prod">
     <!-- Page Content -->
     <div class="container">
 
@@ -43,7 +43,7 @@
         <!-- Team Members Row -->
         <div class="row">
             <div class="col-lg-12">
-                <h2 class="page-header">Our Team</h2>
+                <h2 class="page-header">Nos Produits</h2>
             </div>
             <div class="col-lg-4 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="http://placehold.it/200x200" alt="">

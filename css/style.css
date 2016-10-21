@@ -48,3 +48,9 @@ li:hover{
 .text-muted{
 	color: black;
 }
+.img-circle{
+   margin: 0 auto;
+}
+#prod{
+	margin-top: 20px;
+}
