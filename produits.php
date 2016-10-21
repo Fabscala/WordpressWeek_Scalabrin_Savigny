@@ -27,7 +27,7 @@
         <li><a id="navtop" href="index.php">Accueil</a></li>
         <li><a id="navtop" href="produits.php">Produits</a></li>
         <li><a id="navtop" href="#">Qui sommes-nous</a></li>
-        <li><a id="navtop" href="#">Contact</a></li>
+        <li><a id="navtop" href="contact.php">Contact</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
