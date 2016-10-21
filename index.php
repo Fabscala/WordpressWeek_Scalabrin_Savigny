@@ -34,6 +34,15 @@
 </nav>
 </header>
 <body>
+<div class="positionn" align="center">
+<h1>Construisez en toute sérénité</h1>
+<hr style="border-top: 3px solid white;">
+<p style="font-size: 35px; color: white; margin-top: 8%">Protégez vous du gravier qui s’enfiltre dans vos gants<br>
+avec nos nouveaux gants hermetiques</p>
+
+<button type="button" class="btn btn-outline-primary">En savoir plus</button>
+</div>
+<img src="img/bg.jpg" class="chapeau"> 
     <section id="services">
         <div class="container">
             <div class="row">
@@ -73,4 +82,5 @@
     </section>
 
 </body>
+<?php include ('footer.php'); ?>
 </html>

@@ -1,6 +1,37 @@
 *{
 	font-family: 'Roboto';	
 }
+h5 {
+  font-size: 20px;
+  color: rgba(255, 255, 255, 0.7);
+  padding-bottom: 10%;
+}
+h1{
+  font-size: 40px;
+  color: white;
+  padding-bottom: 5%;
+}
+p{
+  font-size: 13px;
+  margin-bottom: 10%;
+}
+
+.chapeau{
+  width: 100%;
+  background: url(img/bg.jpg) no-repeat bottom center scroll;
+ background-size: color;
+}
+h2{
+  color: white;
+  font-size: 20px;
+}
+.hrfooter{
+  color: white;
+}
+.footer{
+  background-color: #2c3e50;
+  color: white;
+}
 hr{
 	border-color: black;
 	margin-left: 40%;
@@ -28,6 +59,11 @@ li:hover{
 	transition-duration: 0.5s ;
 	transition-timing-function: ease-in-out;
 
+}
+.positionn{
+  position: absolute;
+  margin-left: 28%;
+  margin-top: 15%;
 }
 #navtop{
 	color: white;
